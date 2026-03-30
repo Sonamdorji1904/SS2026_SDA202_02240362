@@ -49,3 +49,7 @@ To overcome this, I tried a hybrid workflow:
 
 ## Conclusion
 By completing these practical (three diagrams), I have learned that system design is not just about drawing boxes and arrows; it is about defining the functional boundaries and responsibilities of the system. I now have a clear understanding of how the system supports the actors to achieve the final outcome of a validated, graded, and audited programming assignment.
+
+## Reference
+1. Claude Sonnet 4.6
+https://claude.ai/share/b6f11d0a-aebc-43f5-8692-d38ae16f7f93
