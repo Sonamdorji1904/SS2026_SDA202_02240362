@@ -1,4 +1,4 @@
-# Personal Reflection: APAGS System Modeling
+# Personal Reflection
 
 ## Overview
 In this practical, I focused on designing a robust architectural foundation for the **Automated Grading System (AGS)**.  
